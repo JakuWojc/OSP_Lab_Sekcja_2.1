@@ -50,6 +50,7 @@
 			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../documentation/Queued Message Handler Documentation.html"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
+			<Item Name="Czas.vi" Type="VI" URL="../subVIs/Czas.vi"/>
 			<Item Name="prototype.vi" Type="VI" URL="../subVIs/prototype.vi"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
@@ -62,11 +63,11 @@
 			<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/Set Enable State on Multiple Controls.vi"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="Control 1.ctl" Type="VI" URL="../../../pomoce/Carwash/CTL/Control 1.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="WashIndicators.ctl" Type="VI" URL="../controls/WashIndicators.ctl"/>
 			<Item Name="WashOptions.ctl" Type="VI" URL="../controls/WashOptions.ctl"/>
 		</Item>
-		<Item Name="Control 1.ctl" Type="VI" URL="../../../pomoce/Carwash/CTL/Control 1.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
