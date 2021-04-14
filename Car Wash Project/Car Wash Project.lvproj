@@ -51,12 +51,9 @@
 			<Item Name="Queued Message Handler Documentation.html" Type="Document" URL="../documentation/Queued Message Handler Documentation.html"/>
 		</Item>
 		<Item Name="subVIs" Type="Folder">
-			<Item Name="Czas.vi" Type="VI" URL="../subVIs/Czas.vi"/>
-			<Item Name="prototype.vi" Type="VI" URL="../subVIs/prototype.vi"/>
 			<Item Name="KolejkaMycia.vi" Type="VI" URL="../subVIs/KolejkaMycia.vi"/>
 			<Item Name="CheckPosition.vi" Type="VI" URL="../subVIs/CheckPosition.vi"/>
 			<Item Name="CheckExit.vi" Type="VI" URL="../subVIs/CheckExit.vi"/>
-			<Item Name="Czytanie.vi" Type="VI" URL="../subVIs/Czytanie.vi"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -123,17 +120,6 @@
 				<Item Name="IMAQ Convert From OCR Read Report Internal 2.vi" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ Convert From OCR Read Report Internal 2.vi"/>
 				<Item Name="IMAQ Overlay ROI" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay ROI"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
-				<Item Name="IVA Clear Coordsys Errors.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA Clear Coordsys Errors.vi"/>
-				<Item Name="Imaq GetImageInfo" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/Imaq GetImageInfo"/>
-				<Item Name="Image Unit" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Unit"/>
-				<Item Name="Imaq Dispose" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/Imaq Dispose"/>
-				<Item Name="IMAQ Copy" Type="VI" URL="/&lt;vilib&gt;/vision/Management.llb/IMAQ Copy"/>
-				<Item Name="IVA Get Alternate Path.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA Get Alternate Path.vi"/>
-				<Item Name="IVA OCR - Set Parameters 2.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA OCR - Set Parameters 2.vi"/>
-				<Item Name="IMAQ OCR Property.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Property.ctl"/>
-				<Item Name="IMAQ OCR Threshold Mode - Local.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Threshold Mode - Local.ctl"/>
-				<Item Name="IMAQ OCR Threshold Mode - Color.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Threshold Mode - Color.ctl"/>
-				<Item Name="IMAQ OCR Threshold Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/OCR.llb/IMAQ OCR Threshold Mode.ctl"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
